@@ -1,4 +1,4 @@
 
 This program print "hello git"
-This program asks te user for teir name, thn says hello.
 
+This program asks the user for their name, then says hello.
